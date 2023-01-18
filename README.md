@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Bekezulu A. Bischops
+I'm a developer and analyst based in Durban, South Africa.
 
 <!--
 **BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
