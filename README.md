@@ -1,11 +1,12 @@
 ### Hi there 👋 I am Bekezulu A. Bischops
-I'm a developer and analyst based in Durban, South Africa.
+I'm a Entry Level Data and Environmental Scientist, and Software Developer based in Matatiele, Eastern Cape, South Africa.
 
 ### 🔭 currently: 
 * Working on Titanic - Machine Learning from Disaster.
 * Learning Software Engineering.
 * Text Prediction Generator in R
 * Python OOP package
+
 <!--
 **BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
