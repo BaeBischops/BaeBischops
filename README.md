@@ -8,12 +8,11 @@ I'm a Entry Level Data and Environmental Scientist, and Software Developer based
 * Python OOP package
 
 ## Web Development Portfolio
-* Resume
-* Task Manager
-* Neflix Clone
-* Booking App
-* Podcast App
-
+* [Resume](https://baebischops.github.io/digital_resume)
+* [Task Manager](https://baebischops.github.io/task_manager)
+* [Neflix Clone](https://baebischops.github.io/netflix_clone) 
+* [Booking App](https://github.com/BaeBischops/booking_app)
+* [Podcast App](https://baebischops.github.io/podcast_app)
 <!--
 **BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
