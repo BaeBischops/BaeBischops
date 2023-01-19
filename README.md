@@ -7,6 +7,13 @@ I'm a Entry Level Data and Environmental Scientist, and Software Developer based
 * Text Prediction Generator in R
 * Python OOP package
 
+## Web Development Portfolio
+* Resume
+* Task Manager
+* Neflix Clone
+* Booking App
+* Podcast App
+
 <!--
 **BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
