@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Bekezulu A. Bischops
-I'm a Entry Level Data and Environmental Scientist, and Software Developer based in Matatiele, Eastern Cape, South Africa.
+I am an entry-level Software Developer looking for a position where I can learn on the job. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in PHP, MySQL, and full-stack JavaScript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
 ### 🔭 currently: 
 * Working on Titanic - Machine Learning from Disaster.
