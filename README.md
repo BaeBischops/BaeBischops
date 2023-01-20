@@ -13,6 +13,12 @@ I'm a Entry Level Data and Environmental Scientist, and Software Developer based
 * [Neflix Clone](https://baebischops.github.io/netflix_clone) 
 * [Booking App](https://github.com/BaeBischops/booking_app)
 * [Podcast App](https://baebischops.github.io/podcast_app)
+
+## 👯 I’m looking to collaborate and conntribute on open source development
+*  React
+*  Matplotlib
+*  R Analysis of Ecological and Environmental Data
+
 <!--
 **BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +28,7 @@ Here are some ideas to get you started:
 * I’m currently working on Titanic - Machine Learning from Disaster.
 * I’m currently learning Machine Learning, and Software Engineering
 - 🌱 I’m currently learning Machine Learning, and Software Engineering
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on open source development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
