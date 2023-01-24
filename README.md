@@ -2,8 +2,8 @@
 I am an entry-level Software Developer looking for a position where I can learn on the job. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in PHP, MySQL, and full-stack JavaScript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
 ### 🔭 Projects I am Currently Working On: 
-* Working on Titanic - Machine Learning from Disaster.
-* Learning Software Engineering.
+* Titanic - Machine Learning from Disaster.
+* Software Engineering.
 * Text Prediction Generator in R
 * Python OOP package
 
@@ -14,7 +14,7 @@ I am an entry-level Software Developer looking for a position where I can learn 
 * [Booking App](https://github.com/BaeBischops/booking_app)
 * [Podcast App](https://baebischops.github.io/podcast_app)
 
-## 👯 I’m looking to collaborate and conntribute on open source development
+## 👯 I’m looking to collaborate and contribute to an open source development
 *  React
 *  Matplotlib
 *  R Analysis of Ecological and Environmental Data
