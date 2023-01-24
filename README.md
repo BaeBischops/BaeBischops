@@ -18,6 +18,7 @@ I am an entry-level Software Developer looking for a position where I can learn 
 *  React
 *  Matplotlib
 *  R Analysis of Ecological and Environmental Data
+*  PyTorch
 
 <!--
 **BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
