@@ -1,42 +1,33 @@
-### Hi there 👋 I am Bekezulu A. Bischops
-I am an entry-level Software Developer looking for a position where I can learn on the job. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in PHP, MySQL, and full-stack JavaScript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
+# Bekezulu A. Bischops - Software Developer
+## Introduction
+Greetings! I am Bekezulu A. Bischops, an aspiring Software Developer at the entry level. I am actively seeking a position that offers me the opportunity to expand my knowledge and skills in the field. I recently graduated from CodeSpace Academy, having successfully completed their comprehensive Software Development course. My primary areas of expertise include PHP, MySQL, and full-stack JavaScript. My academic background has equipped me with the ability to quickly adapt to new technologies and programming languages, and I am wholeheartedly dedicated to continuous learning and professional growth.
 
-### 🔭 Projects and Learning Areas I am Currently Working On: 
-* Titanic - Machine Learning from Disaster.
-* Software Engineering.
-* Text Prediction Generator in R
-* Python OOP package
+## Current Projects and Learning Focus
+As part of my ongoing professional development, I am actively engaged in the following projects and learning areas:
+<ol>
+<li>Titanic - Machine Learning from Disaster: Exploring machine learning techniques for predictive modeling.</li>
+<li>Software Engineering: Enhancing my understanding of software engineering principles and best practices.</li>
+<li>Text Prediction Generator in R: Working on a text prediction tool utilizing the R programming language.</li>
+<li>Python Object-Oriented Programming (OOP) Package: Creating a Python package that adheres to object-oriented programming principles.</li>
+<li>Web Development Portfolio: Building a comprehensive web development portfolio to showcase my skills and projects.</li>
+<li>Resume Enhancement: Continuously improving and updating my professional resume.</li>
+<li>Task Manager: Developing a task management application to streamline personal and professional productivity.</li>
+<li>Netflix Clone: Building a clone of the Netflix application for further practical experience.</li>
+<li>Booking App: Creating a booking application for efficient scheduling and reservations.</li>
+<li>Podcast App: Developing a podcast application to explore audio content delivery.</li>
+</ol>
 
-## Web Development Portfolio
-* [Resume](https://baebischops.github.io/digital_resume)
-* [Task Manager](https://baebischops.github.io/task_manager)
-* [Neflix Clone](https://baebischops.github.io/netflix_clone) 
-* [Booking App](https://github.com/BaeBischops/booking_app)
-* [Podcast App](https://baebischops.github.io/podcast_app)
+## Collaboration and Open Source Contribution
+I am actively seeking opportunities to collaborate with and contribute to open source development projects. I am particularly interested in contributing to the following areas:
+<ul>
+<li>React</li>
+<li>Matplotlib</li>
+<li>R Analysis of Ecological and Environmental Data</li>
+<li>PyTorch</li>
+</ul>
+Feel free to connect with me if you believe I can be a valuable addition to your projects or if you have any opportunities for collaboration.
 
-## 👯 I’m looking to collaborate and contribute to an open source development
-*  React
-*  Matplotlib
-*  R Analysis of Ecological and Environmental Data
-*  PyTorch
-
-<!--
-**BaeBischops/BaeBischops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-###🔭 currently
-* I’m currently working on Titanic - Machine Learning from Disaster.
-* I’m currently learning Machine Learning, and Software Engineering
-- 🌱 I’m currently learning Machine Learning, and Software Engineering
-- 👯 I’m looking to collaborate on open source development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Thank you for considering my profile, and I look forward to exploring potential partnerships and growth opportunities in the world of software development.
 
 ### 📫 How to reach me: Social links
 
